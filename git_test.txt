@@ -1,0 +1,10 @@
+git clone https://github.com/AndreiBuzurniuc/ABuzurniuc_Tekwill2022.git
+git status
+git init
+git add
+git commit -m "testare comenzi GIT"
+git push origin
+git pull origin
+git log
+
+
